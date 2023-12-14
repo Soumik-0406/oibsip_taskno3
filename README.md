@@ -1,2 +1,2 @@
-# oibsip_taskno3
-Created a Temperature Converter Website using the knowledge of HTML, CSS and JS
+# temperature-converter-Website-using-html-css-JavaScript
+![temperature-converter-Website-using-html-css-JavaScript](img/github_cover.jpeg)
